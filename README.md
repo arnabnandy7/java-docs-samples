@@ -69,4 +69,8 @@ Apache header:
 [cred]: http://google.github.io/google-auth-library-java/releases/0.6.0/apidocs/com/google/auth/Credentials.html?is-external=true
 [options]: http://googlecloudplatform.github.io/google-cloud-java/0.12.0/apidocs/com/google/cloud/ServiceOptions.Builder.html#setCredentials-com.google.auth.Credentials-
 [auth_command]: https://cloud.google.com/sdk/gcloud/reference/beta/auth/application-default/login
-<!-- GitAds-Verify: LVDBZUOCK5TPMPN2IFEPSUHA4O6LX4IA -->
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/java-docs-samples@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/java-docs-samples@github)
+
+
